@@ -1,5 +1,5 @@
 import { Application } from 'egg';
-
+// 引入ts
 export default (app: Application) => {
   const { controller, router } = app;
 
